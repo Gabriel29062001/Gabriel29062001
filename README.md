@@ -9,7 +9,7 @@ Explore my main projects below — click any image to open the repository.<br/>
 
 <p align="center">
   <a href="https://github.com/USERNAME/FreeRunning-MRI">
-    <img src="./assets/fr5d_mri.jpg" width="45%" title="Free-Running 5D MRI Pipeline" />
+    <img src="./assets/freerunning.gif" width="45%" title="Free-Running 5D MRI Pipeline" />
   </a>
   <a href="https://github.com/USERNAME/AI-Segmentation-MRI">
     <img src="./assets/ai_seg.jpg" width="45%" title="AI Segmentation MRI (nnU-Net)" />

@@ -25,16 +25,18 @@ Explore my main projects below by clicking on any image to open the repository.<
 
 <p align="center">
   <a href="https://github.com/Gabriel29062001/Mobile-Robotics-Project" title="Medical Robotics / MR Demo">
-    <img src="./assets/mr.gif" width="26%" alt="MR Demo"/>
+    <img src="./assets/mr.gif" width="24%" alt="MR Demo"/>
   </a>
   <a href="https://github.com/Gabriel29062001/MILP" title="Optimization / MILP">
-    <img src="./assets/milp.gif" width="28%" alt="MILP Demo"/>
+    <img src="./assets/dis.gif" width="18%" alt="MILP Demo"/>
   </a>
   <a href="https://github.com/Gabriel29062001/ROBOCUP" title="RoboCup Project">
-    <img src="./assets/robocup.gif" width="20%" alt="RoboCup"/>
+    <img src="./assets/robocup.gif" width="18%" alt="RoboCup"/>
   </a>
+  <a href="https://github.com/Gabriel29062001/MILP" title="Optimization / MILP">
+    <img src="./assets/milp.gif" width="27%" alt="MILP Demo"/>
   <a href="https://github.com/Gabriel29062001/hackathon" title="Lausanne Hackathon">
-    <img src="./assets/lauzhac.jpeg" width="12%" alt="Lausanne Hackathon"/>
+    <img src="./assets/lauzhac.jpeg" width="11%" alt="Lausanne Hackathon"/>
   </a>
 </p>
 

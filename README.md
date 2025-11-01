@@ -14,19 +14,19 @@ Explore my main projects below by clicking on any image to open the repository.<
 <div align="center">
   <table cellspacing="0" cellpadding="0" border="0">
     <tr>
-      <td rowspan="2">
+      <td rowspan="0">
         <a href="https://github.com/Gabriel29062001/wildffs" title="Free-Running 5D Cardiac MRI">
           <img src="./assets/freerunning.gif" alt="FreeRunning MRI" width="480">
       </td>
       <td>
         <a href="https://github.com/Gabriel29062001/NAO_software" title="NAO Robotics">
-          <img src="./assets/nao.jpg" alt="NAO Robotics" width="310">
+          <img src="./assets/nao.jpg" alt="NAO Robotics" width="300">
       </td>
     </tr>
     <tr>
       <td>
          <a href="https://github.com/Gabriel29062001/Bidirectional-Tactile-Interface-Control-and-Perception-Strategies" title="Haptic RRL">
-          <img src="./assets/haptic_rrl.gif" alt="Haptic RRL" width="310">
+          <img src="./assets/haptic_rrl.gif" alt="Haptic RRL" width="300">
       </td>
     </tr>
   </table>

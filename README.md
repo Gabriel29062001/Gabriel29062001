@@ -20,13 +20,13 @@ Explore my main projects below by clicking on any image to open the repository.<
       </td>
       <td>
         <a href="https://github.com/Gabriel29062001/NAO_software" title="NAO Robotics">
-          <img src="./assets/nao.jpg" alt="NAO Robotics" width="323">
+          <img src="./assets/nao.jpg" alt="NAO Robotics" width="310">
       </td>
     </tr>
     <tr>
       <td>
          <a href="https://github.com/Gabriel29062001/Bidirectional-Tactile-Interface-Control-and-Perception-Strategies" title="Haptic RRL">
-          <img src="./assets/haptic_rrl.gif" alt="Haptic RRL" width="323">
+          <img src="./assets/haptic_rrl.gif" alt="Haptic RRL" width="310">
       </td>
     </tr>
   </table>

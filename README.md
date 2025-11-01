@@ -34,7 +34,7 @@ Explore my main projects below by clicking on any image to open the repository.<
     <img src="./assets/robocup.gif" width="18%" alt="RoboCup"/>
   </a>
   <a href="https://github.com/Gabriel29062001/MILP" title="Optimization / MILP">
-    <img src="./assets/milp.gif" width="27%" alt="MILP Demo"/>
+    <img src="./assets/milp.gif" width="30%" alt="MILP Demo"/>
 </p>
 
 

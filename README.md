@@ -12,7 +12,7 @@ Explore my main projects below by clicking on any image to open the repository.<
 
 
 <p align="center">
-  <a href="./assets/freerunning.gif" title="Free-Running 5D Cardiac MRI">
+  <a href="https://github.com/Gabriel29062001/wildffs" title="Free-Running 5D Cardiac MRI">
     <img src="./assets/freerunning.gif" width="25%" alt="FreeRunning MRI"/>
   </a>
   <a href="https://github.com/Gabriel29062001/NAO_software" title="NAO Robotics">

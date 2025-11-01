@@ -24,17 +24,17 @@ Explore my main projects below by clicking on any image to open the repository.<
     <tr>
       <td rowspan="2">
         <a href="https://github.com/Gabriel29062001/wildffs" title="Free-Running 5D Cardiac MRI">
-          <img src="./assets/freerunning.gif" alt="FreeRunning MRI" width="750">
+          <img src="./assets/freerunning.gif" alt="FreeRunning MRI" width="500">
       </td>
       <td>
         <a href="https://github.com/Gabriel29062001/NAO_software" title="NAO Robotics">
-          <img src="./assets/nao.jpg" alt="NAO Robotics" width="500">
+          <img src="./assets/nao.jpg" alt="NAO Robotics" width="333">
       </td>
     </tr>
     <tr>
       <td>
          <a href="https://github.com/Gabriel29062001/Bidirectional-Tactile-Interface-Control-and-Perception-Strategies" title="Haptic RRL">
-          <img src="./assets/haptic_rrl.gif" alt="Haptic RRL" width="500">
+          <img src="./assets/haptic_rrl.gif" alt="Haptic RRL" width="333">
       </td>
     </tr>
   </table>
@@ -44,19 +44,19 @@ Explore my main projects below by clicking on any image to open the repository.<
     <tr>
       <td rowspan="2">
         <a href="https://github.com/Gabriel29062001/ROBOCUP" title="RoboCup Project">
-          <img src="./assets/robocup.gif" alt="RoboCup Project" width="450">
+          <img src="./assets/robocup.gif" alt="RoboCup Project" width="300">
         <a href="https://github.com/PatrickRic/DIS-Project/tree/gabriel" title="Distributed Intelligent System Project">
-          <img src="./assets/dis.gif" alt="Distributed Intelligent System Project" width="450">
+          <img src="./assets/dis.gif" alt="Distributed Intelligent System Project" width="300">
       </td>
       <td>
          <a href="https://github.com/Gabriel29062001/Mobile-Robotics-Project" title="Mobile Robotics Project">
-          <img src="./assets/mr.gif" alt="Mobile Robotics Project" width="325">
+          <img src="./assets/mr.gif" alt="Mobile Robotics Project" width="208">
       </td>
     </tr>
     <tr>
       <td>
          <a href="https://github.com/Gabriel29062001/MILP" title="MILP Project">
-          <img src="./assets/milp.gif" alt="MILP Project" width="325">
+          <img src="./assets/milp.gif" alt="MILP Project" width="208">
       </td>
     </tr>
   </table>

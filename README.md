@@ -27,7 +27,7 @@ Explore my main projects below by clicking on any image to open the repository.<
   <a href="https://github.com/Gabriel29062001/Mobile-Robotics-Project" title="Mobile Robotics Project">
     <img src="./assets/mr.gif" width="24%" alt="MR Demo"/>
   </a>
-  <a href="https://github.com/Gabriel29062001/MILP" title="Distributed Intelligent System Project">
+  <a href="https://github.com/PatrickRic/DIS-Project/tree/gabriel" title="Distributed Intelligent System Project">
     <img src="./assets/dis.gif" width="18%" alt="MILP Demo"/>
   </a>
   <a href="https://github.com/Gabriel29062001/ROBOCUP" title="RoboCup Project">

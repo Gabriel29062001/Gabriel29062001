@@ -1,11 +1,3 @@
-<style>
-  a img:hover {
-    box-shadow: 0 0 10px #ccc;
-    transition: 0.3s ease-in-out;
-  }
-</style>
-
-
 <h1 align="left">Hi, I'm Gabriel 👋</h1>
 
 **Fresh Engineer in Robotics** : I created this page to help you easily navigate through my different projects and explore them in more detail.  

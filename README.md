@@ -4,7 +4,7 @@
 If you’d like a broader overview of my journey and experiences, you can find my **[📄 Resume here](./Gabriel_PAFFI_Resume.pdf)**.
 
 Explore my main projects below by clicking on any image to open the repository.<br/>
-My additional/extra projects can be found [here]("https://github.com/Gabriel29062001/additional_projects") 
+My additional/extra projects can be found **[📄 here]("https://github.com/Gabriel29062001/Additional_projects")**.
 
 ---
 

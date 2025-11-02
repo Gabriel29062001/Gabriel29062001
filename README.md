@@ -9,52 +9,35 @@ My additional/extra projects can be found [here]("https://github.com/Gabriel2906
 ---
 
 
-<h2 align="center">🎨 Project Gallery</h2>
+## 🎨 Project Gallery
 
-<div align="center" style="background:none;">
 
-<table style="border:none; border-collapse:collapse; background:none;">
+<p align="center">
+<table style="border:none">
   <tr>
-    <td rowspan="2" style="border:none; padding:0;">
-      <a href="https://github.com/Gabriel29062001/wildffs" title="Free-Running 5D Cardiac MRI 2025">
-        <img src="./assets/freerunning.gif" width="100%" alt="FreeRunning MRI"/>
-      </a>
-    </td>
-    <td style="border:none; padding:0;">
-      <a href="https://github.com/Gabriel29062001/NAO_software" title="NAO Robotics 2025">
-        <img src="./assets/nao.jpg" width="100%" alt="NAO Robot"/>
-      </a>
-    </td>
+    <td rowspan = "2", style="border:none; padding:0;"><a href="https://github.com/Gabriel29062001/wildffs" title="Free-Running 5D Cardiac MRI 2025">
+    <img src="./assets/freerunning.gif" width="100%" alt="FreeRunning MRI"/></a></td>
+    <td rowspan = 1, style="border:none"> <a href="https://github.com/Gabriel29062001/NAO_software" title="NAO Robotics 2025">
+        <img src="./assets/nao.jpg" width="38%" alt="NAO Robot"/></a>
   </tr>
   <tr>
-    <td style="border:none; padding:0;">
-      <a href="https://github.com/PatrickRic/DIS-Project/tree/gabriel" title="Distributed Intelligent System Project 2024">
-        <img src="./assets/dis.gif" width="100%" alt="DIS Project"/>
-      </a>
-      <a href="https://github.com/Gabriel29062001/ROBOCUP" title="RoboCup Project 2022">
-        <img src="./assets/robocup.gif" width="100%" alt="RoboCup"/>
-      </a>
-    </td>
-  </tr>
+    <td><a href="https://github.com/PatrickRic/DIS-Project/tree/gabriel" title="Distributed Intelligent System Project 2024">
+    <img src="./assets/dis.gif" width="19%" alt="MILP Demo"/></a>
+    <a href="https://github.com/Gabriel29062001/ROBOCUP" title="RoboCup Project 2022">
+    <img src="./assets/robocup.gif" width="19%" alt="RoboCup"/></a>
+  </tr>  
   <tr>
-    <td rowspan="2" style="border:none; padding:0;">
-      <a href="https://github.com/Gabriel29062001/Bidirectional-Tactile-Interface-Control-and-Perception-Strategies" title="Haptic RRL 2024">
-        <img src="./assets/haptic_rrl.gif" width="100%" alt="Haptic RRL"/>
-      </a>
-    </td>
-    <td style="border:none; padding:0;">
-      <a href="https://github.com/Gabriel29062001/MILP" title="Optimization / MILP 2024">
-        <img src="./assets/milp.gif" width="100%" alt="MILP Demo"/>
-      </a>
-    </td>
-  </tr>
+    <td rowspan = "2", style="border:none; padding:0;">  <a href="https://github.com/Gabriel29062001 Bidirectional-Tactile-Interface-Control-and-Perception-Strategies" title="Haptic RRL 2024">
+    <img src="./assets/haptic_rrl.gif" width="100%" alt="Haptic RRL"/></a></td>
+    <td rowspan = 1, style="border:none"><a href="https://github.com/Gabriel29062001/MILP" title="Optimization / MILP 2024">
+        <img src="./assets/milp.gif" width="38%" alt="MILP Demo"/></a>
+  </tr>  
   <tr>
-    <td style="border:none; padding:0;">
-      <a href="https://github.com/Gabriel29062001/Mobile-Robotics-Project" title="Mobile Robotics Project 2023">
-        <img src="./assets/mr.gif" width="100%" alt="Mobile Robotics"/>
-      </a>
-    </td>
-  </tr>
+    <td><a href="https://github.com/Gabriel29062001/Mobile-Robotics-Project" title="Mobile Robotics Project 2023">
+    <img src="./assets/mr.gif" width="38%" alt="MR Demo"/></a>
+  </tr> 
 </table>
+</p>
 
-</div>
+
+

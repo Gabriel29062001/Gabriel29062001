@@ -9,7 +9,7 @@ My additional/extra projects can be found [here]("https://github.com/Gabriel2906
 ---
 
 
-<h2 align="center">🎨 Project Gallery</h2>
+## 🎨 Project Gallery</h2>
 <div align="center">
 <table style="border:none; border-collapse:collapse; background:transparent;">
   <tr>
@@ -20,17 +20,17 @@ My additional/extra projects can be found [here]("https://github.com/Gabriel2906
     </td>
     <td style="border:none; padding:2px; background:transparent;">
       <a href="https://github.com/Gabriel29062001/NAO_software" title="NAO Robotics 2025">
-        <img src="./assets/nao.jpg" width="100%" style="display:block; border:none;" alt="NAO Robot"/>
+        <img src="./assets/nao.jpg" width="40%" style="display:block; border:none;" alt="NAO Robot"/>
       </a>
     </td>
   </tr>
   <tr>
     <td style="border:none; padding:2px; background:transparent;">
       <a href="https://github.com/PatrickRic/DIS-Project/tree/gabriel" title="Distributed Intelligent System Project 2024">
-        <img src="./assets/dis.gif" width="49%" style="display:inline-block; border:none;" alt="DIS Project"/>
+        <img src="./assets/dis.gif" width="19.5%" style="display:inline-block; border:none;" alt="DIS Project"/>
       </a>
       <a href="https://github.com/Gabriel29062001/ROBOCUP" title="RoboCup Project 2022">
-        <img src="./assets/robocup.gif" width="49%" style="display:inline-block; border:none;" alt="RoboCup"/>
+        <img src="./assets/robocup.gif" width="20%" style="display:inline-block; border:none;" alt="RoboCup"/>
       </a>
     </td>
   </tr>
@@ -42,14 +42,14 @@ My additional/extra projects can be found [here]("https://github.com/Gabriel2906
     </td>
     <td style="border:none; padding:2px; background:transparent;">
       <a href="https://github.com/Gabriel29062001/MILP" title="Optimization / MILP 2024">
-        <img src="./assets/milp.gif" width="100%" style="display:block; border:none;" alt="MILP Demo"/>
+        <img src="./assets/milp.gif" width="30%" style="display:block; border:none;" alt="MILP Demo"/>
       </a>
     </td>
   </tr>
   <tr>
     <td style="border:none; padding:2px; background:transparent;">
       <a href="https://github.com/Gabriel29062001/Mobile-Robotics-Project" title="Mobile Robotics Project 2023">
-        <img src="./assets/mr.gif" width="100%" style="display:block; border:none;" alt="Mobile Robotics"/>
+        <img src="./assets/mr.gif" width="30%" style="display:block; border:none;" alt="Mobile Robotics"/>
       </a>
     </td>
   </tr>
